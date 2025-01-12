@@ -1,3 +1,5 @@
+https://github.com/roblevay/ai900.git
+
 --Skapa resursgrupp om den inte finns
 
 az group create --location eastus --resource-group airg
